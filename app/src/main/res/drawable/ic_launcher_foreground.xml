@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Curtain Rod -->
+    <path
+        android:pathData="M24,32 L84,32 A2,2 0 0 1 84,36 L24,36 A2,2 0 0 1 24,32 Z"
+        android:fillColor="#D6C5A9" />
+        
+    <!-- Left Curtain Drape (with realistic folds) -->
+    <path
+        android:pathData="M28,36 C34,42 36,54 34,76 L26,76 C26,54 24,42 28,36 Z"
+        android:fillColor="#D6C5A9" />
+    <path
+        android:pathData="M32,36 C38,42 40,54 38,76 L34,76 C34,54 32,42 32,36 Z"
+        android:fillColor="#8C7456" />
+
+    <!-- Right Curtain Drape -->
+    <path
+        android:pathData="M80,36 C74,42 72,54 72,76 L80,76 C80,54 82,42 80,36 Z"
+        android:fillColor="#D6C5A9" />
+    <path
+        android:pathData="M76,36 C70,42 68,54 68,76 L72,76 C72,54 74,42 76,36 Z"
+        android:fillColor="#8C7456" />
+        
+    <!-- Curtain Tiebacks / Sashes -->
+    <path
+        android:pathData="M24,54 Q31,56 31,58 Q31,60 24,61"
+        android:strokeColor="#F7F3EB"
+        android:strokeWidth="1.5" />
+    <path
+        android:pathData="M84,54 Q77,56 77,58 Q77,60 84,61"
+        android:strokeColor="#F7F3EB"
+        android:strokeWidth="1.5" />
+</vector>

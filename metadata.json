@@ -1,0 +1,6 @@
+{
+  "name": "Drapes & Fitouts",
+  "description": "Polished Android companion app for Drapes & Fitouts, loading services and custom interiors seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
